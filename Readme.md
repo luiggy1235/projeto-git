@@ -1,0 +1,1 @@
+Olá, esse projeto ensina voce a usar o git, o luiggy é mt legal
